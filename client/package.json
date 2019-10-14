@@ -1,0 +1,40 @@
+{
+  "name": "react-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "proxy": "http://localhost:3033",
+  "main": "index.js",
+  "staticFiles": {
+    "staticPath": "public",
+    "watcherGlob": "**"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js",
+    "script": "python3 src/scripts/router.py"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/echarts": "^4.1.9",
+    "@types/react-router-dom": "^4.3.2",
+    "antd": "^3.17.0",
+    "axios": "^0.18.0",
+    "echarts": "^4.2.1",
+    "express": "^4.16.4",
+    "koa": "^2.7.0",
+    "parcel-plugin-static-files-copy": "^2.0.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.16",
+    "@types/react-dom": "^16.8.4",
+    "http-proxy-middleware": "^0.19.1",
+    "parcel-bundler": "^1.12.3",
+    "typescript": "^3.4.5"
+  }
+}

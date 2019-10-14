@@ -1,0 +1,379 @@
+.create_h1 {
+    font-size: 24px;
+    line-height : 80px;
+     color: #30a6f5;
+      padding-left: 40px;
+}
+.create_label{
+    font-size: 22px;
+    font-weight: bold;
+    color: #30a6f5;
+    line-height: 2;
+    text-align: right;
+    width: 200px;
+    margin: 0px 19px 0px 0px;
+}
+.create_input{
+    margin-top: 25px;
+                            width: 660px;
+                            height: 46px;
+                            font-size: 16px;
+                            color: #333333;
+                            padding-left: 10px;
+                            margin-left: 10px;
+}
+.create_button{
+    width: 182px;
+                            height: 46px;
+                            font-size: 26px;
+                            line-height: 1.6;
+                            margin: 60px 0px 180px 320px;
+                            display: block
+}
+.update_select_div{
+    margin-left: 76px;
+    font-size: 18px;
+    margin-top: 41px;
+    
+}
+.update_select_select{
+    margin-left: 33px;
+}
+.edit_area{
+    margin-top: 40px;
+    margin-left:81px;
+}
+.edit-input{
+    
+    width: 55%;
+}
+.edit_label{
+    margin-right:13px;
+    font-size: 16px;
+}
+.edit-function{
+
+}
+.edit-function-require{
+
+}
+.edit-item{
+    margin-top: 40px;
+}
+.edit-before-upload{
+    
+}
+.edit_button_submit{
+    ont-size: 22px;
+    height: 45px;
+    margin-top: 30px;
+    margin-left: 285px;
+    /* font-weight: bolder; */
+    width: 90px
+}
+.answer_item{
+    margin-top: 25px;
+}
+.answer_item input{
+    width: 53%;
+    margin-right: 20px;
+}
+.checkbox-number{
+    margin-left: 25px;
+}
+.update-render-radio{
+    display: block;
+    height: '30px';
+      line-height: '30px';
+      font-size: 18px;
+      margin-bottom: 20px;
+      margin-left: 45px;
+}
+.update-render-head{
+    font-size :22px;
+    font-weight: bolder;
+    text-align: left;
+    margin-bottom: 10px;
+    margin-left: 20px;
+
+}
+.update-render-item{
+    margin-bottom: 14px;
+    border-bottom-width: 1px;
+    border-bottom-style: dashed;
+    border-bottom-color: dimgray;
+    margin-left: 57px;
+    margin-right: 110px;
+
+}
+.update-render-item_mouse{
+    margin-bottom: 14px;
+    
+    border-bottom-style: dashed;
+    border-bottom-color: dimgray;
+    margin-left: 57px;
+    border-bottom-width: 1px;
+    margin-right: 110px;
+   
+    
+    clear: both;
+}
+
+.update_picture{
+    margin: 0 auto;
+    max-width: 100%;
+}
+.render{
+    overflow:auto;
+    height:600px;
+    margin-top: 41px;
+}
+.slider{
+    width: 81%;
+    margin-top: 50px;
+    margin-left: 55px;
+}
+.check_pictire_text{
+    font-size: 18px;
+    margin-top: 10px;
+    text-align: center;
+}
+.rate_update{
+    margin-left: 54px;
+    margin-bottom: 20px;
+}
+.render_preview{
+    
+    margin-top: 41px;
+}
+.render_head{
+    text-align: center;
+    font-size: 50px;
+    color: rgba(41, 47, 138, 0.795);
+    margin-bottom: -25px;
+}
+.show_survey_card{
+    margin-top: 85px;
+    border: 5px solid rgba(10, 88, 119, 0.795)
+}
+.show_survet_button{
+    margin-top: 30px;
+    margin-bottom: 14px;
+    margin-left: 40%;
+    /* margin-right: 110px; */
+    width: 100px;
+    height: 35px;
+    font-size: 21px;
+    
+
+}
+.survey_item{
+    width:800px;
+    height: 120px;
+    margin-bottom: 20px;
+    margin-top: 20px;;
+    border-radius: 8px;
+    border: 2px solid #e1ebf5;
+}
+
+.survey_item_top{
+   
+    font-size: 16px;
+    height: 48px;
+    line-height: 48px;
+    padding: 0 20px;
+    padding: 0 5px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    background-color: rgba(126, 200, 230, 0.795);
+}
+.survey_item_top span{
+    font-size: 20px;
+    margin-left: 15px;
+    line-height: 48px;
+}
+
+
+.create_vote_button{
+    font-size: 22px;
+    width: 160px;
+    height: 48px;
+    background-color:#fa9115;
+    border: solid;
+    border-color: #fa9115;
+    border-radius: 100px;
+    color: #ffff;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    
+    
+}
+.survey_item_button{
+    margin-bottom: 1px;
+    clear: both;
+}
+.survey_item_button button{
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 16px;
+
+}
+.survey_item_button button:first-child{
+    margin-left: 15px;
+}
+
+.survey_item_button_left{
+    float: left;
+}
+.survey_item_button_right{
+    float:right;
+    margin-right: 15px;
+}
+.analysis_card{
+    margin-top: 15px;
+    
+}
+.analysis_card_item{
+    font-size: 18px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    border-top:0.5px solid rgb(116, 88, 88);
+    
+}
+.analysis_table{
+    margin-top: 30px;
+    font-size: 16px;
+}
+.analysis_head{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: -25px;
+}
+.analysis-item-head{
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.analysis-button{
+    
+    margin-right: 20px;
+    font-size: 18px;
+    
+    
+}
+.button-list{
+    margin-top: 20px;
+    margin-left: 355px;
+    
+}
+#analysis-picture{
+    width: 600;
+     height: 400;
+     margin-top: 20px;
+}
+
+
+
+::-webkit-scrollbar {
+    width: 0.1px;
+}
+
+       .float-box li {
+           position: fixed;
+           top: -20%;
+           list-style: none;
+           display: block;
+           width: 0.3rem;
+           animation: downFloat 10s infinite;
+           -webkit-transition-timing-function: linear;
+           transition-timing-function: linear;
+           z-index: 10;
+       }
+
+       .float-box li img {
+           width: 100%;
+       }
+
+       @keyframes downFloat {
+           0% {
+               top: -20%;
+
+           }
+           100% {
+               top: 110%;
+
+           }
+       }
+
+       @keyframes upFloat {
+           0% {
+
+           }
+           100% {
+
+           }
+       }
+       .swiper-slide img{
+           width: 100%;
+
+           display: block;
+       }
+
+       .player_list{
+           margin-top: 20px;
+            clear: both;
+       }
+       
+       .player_item{
+           float: left;
+           margin-left: 40px;
+       }
+       .player_img{
+           height: 150px;
+           width: 150px;
+       }
+       .player_name{
+           margin-top: 13px;
+        text-align: center
+       }
+       .player_btn_box{
+        margin-top: 10px;
+        margin-bottom: 35px;
+       }
+       .player_button{
+           margin-left: 15px;
+       }
+       .player_add{
+           margin-left: 36px;
+           font-size: 16px;
+           margin-top: 30px;
+           margin-bottom: 40px;
+       }
+       .registered_card{
+            margin-top: 80px;
+            border: rgb(112, 8, 90,0.3) 3px solid
+       }
+       .registered_card_input{
+            margin-top: 50px;
+            width: 85%;
+            margin-left: 40px;
+            
+       }
+       .registered_card_span{
+           
+           font-size: 18px;
+       }
+       .registered_card_button{
+            margin-top: 33px;
+            margin-bottom: 20px;
+            margin-left: 220px;
+            height: 30px;
+            font-size: 20px;
+            width: 40%
+       }
+       .waring_note{
+           text-align: center;
+           font-size: 22px;
+           color: rgba(93, 168, 42, 0.7);
+           margin-top: 20px;
+       }
