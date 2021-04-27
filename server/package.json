@@ -33,7 +33,7 @@
     "koa-router": "^7.4.0",
     "koa-static": "^5.0.0",
     "mongoose": "^5.4.11",
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "shortid": "^2.2.14"
   }
 }
